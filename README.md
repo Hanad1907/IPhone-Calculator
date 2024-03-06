@@ -2,5 +2,5 @@
 
 The repo for the iPhone calculator code-along using HTML, CSS, and Vanilla JavaScript!
 
-<img src="iphone.png" alt="iphone calculator" style="margin-left: 15px;" />
+<img src="/IPhone-Calculator-main/IPhone-Calculator-main/iphone-calculator-js-master/iphone.png" alt="iphone calculator" style="margin-left: 15px;" />
 
